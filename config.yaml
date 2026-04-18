@@ -1,0 +1,7 @@
+sword_system:
+  max_damage: 150
+  default_weight: 4
+  materials:
+    - steel
+    - iron
+    - mythril

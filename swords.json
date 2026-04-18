@@ -1,0 +1,5 @@
+[
+  { "name": "Excalibur", "damage": 100, "weight": 5 },
+  { "name": "Katana", "damage": 75, "weight": 3 },
+  { "name": "Claymore", "damage": 90, "weight": 7 }
+]
